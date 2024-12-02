@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="plugin" group="system" version="5.0" method="upgrade">
+    <name>System - Remove Builder Button</name>
+    <author>Francis Valenzuelae</author>
+    <version>1.0.0</version>
+    <description>Plugin para eliminar el botón del editor agregado por YOOtheme</description>
+    <files>
+        <filename plugin="removebuilderbutton">removebuilderbutton.php</filename>
+    </files>
+</extension>
